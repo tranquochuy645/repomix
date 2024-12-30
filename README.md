@@ -1,3 +1,4 @@
+Some changes
 # 📦 Repomix (formerly Repopack)
 
 [![Actions Status](https://github.com/yamadashy/repomix/actions/workflows/ci.yml/badge.svg)](https://github.com/yamadashy/repomix/actions?query=workflow%3A"ci")
